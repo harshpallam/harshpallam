@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshpallam
 - 👀 I’m new to coding but interested to code
 - 🌱 I’m currently learning openpnm 
-- 💞️ I’m looking to collaborate on fuel cells and sand porous media 
+- 💞️ I’m looking to collaborate on modeling PEM fuel cells porous layers 
 - 📫 How to reach me 'harshpallam@gmail.com' or '+91 9959547230'
 
 <!---
